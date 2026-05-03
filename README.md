@@ -203,10 +203,6 @@ Test data includes sample project structures in `src/test/testData/`
 
 This project is licensed under the JetBrains Plugin License Agreement. See [LICENSE](LICENSE) file for details.
 
-## Changelog
-
-See [CHANGELOG.md](CHANGELOG.md) for version history and updates.
-
 ## Code of Conduct
 
 This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
